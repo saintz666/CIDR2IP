@@ -1,7 +1,7 @@
 #!/usr/bin/python
 '''
 Author: SAINTz
-
+Twitter: @__SAINTz__
 '''
 
 from netaddr import *
