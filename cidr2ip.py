@@ -7,7 +7,7 @@ Twitter: @__SAINTz__
 from netaddr import *
 
 f_output = open("everyip.txt", "w")
-f_in = open('ipcidr.txt','wb')
+f_in = open('ipcidr.txt','r')
 inputs = f_in.readlines()
 for cidrs in inputs:
     #ip = IPNetwork('10.0.0.0/8')
